@@ -1,19 +1,19 @@
 # readme-template agent rules
 
-Respond in the user's language (German unless they switch).
+Respond in the user's language.
 
 ## Source of truth
 
 - `TEMPLATE.md` defines the README structure. Its HTML comment header holds
   binding agent instructions — follow them, never copy them into output.
-- `README.md` describes this repo. Keep it short; it is not an example.
+- `README.md` describes this repo. Keep it short.
 
 ## When writing a project README from TEMPLATE.md
 
 - Fill every `{{PLACEHOLDER}}`; delete blocks with no content. No empty
   sections, no TODOs, no lorem ipsum.
 - Keep the skeleton, rename sections per project type (see comment in
-  `TEMPLATE.md`). Don't invent new top-level patterns.
+  `TEMPLATE.md`).
 - Badge grammar: `flat-square`, `labelColor=070e15` everywhere, spaces as
   `%20` or `-`, hex colors without `#`.
 - `<details>` blocks: `<summary><b>Name</b></summary>`, blank line after

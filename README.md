@@ -2,33 +2,20 @@
 
 # readme-template
 
-**README-Strukturvorlage · dot-files-Stil · Agent-ready**
+**README skeleton · agent-ready · structure only**
 
 ![](https://img.shields.io/github/last-commit/Malte-Dzierzon/readme-template?style=flat-square&color=16242d&labelColor=070e15)
-![](https://img.shields.io/badge/style-dot--files-16a3da?style=flat-square&labelColor=070e15)
-![](https://img.shields.io/badge/for-agents-0e0e43?style=flat-square&labelColor=070e15)
+![](https://img.shields.io/badge/agent--ready-0e0e43?style=flat-square&labelColor=070e15)
 
 </div>
 
 ---
 
-Strukturelle README-Vorlage im Stil meines [dot-files](https://github.com/Malte-Dzierzon/dot-files)-Repos. Keine fertige README — ein Skelett, das ein Agent pro Projekt ausfüllt.
+Skeleton, not a finished README. An agent fills it in per project.
 
 ## Quick start
 
-Zeig dem Agent `TEMPLATE.md`, dann ein Satz zum Projekt:
-
 ```text
-Schreib anhand von TEMPLATE.md (exakt diese Struktur, Platzhalter füllen,
-leere Blöcke löschen) eine README für: <Projekt, 2–3 Sätze was es ist>.
+Read AGENTS.md and TEMPLATE.md, then write the README for <project in 2-3 sentences>.
+Keep the structure, fill every placeholder, drop empty blocks, interpret where the project needs it.
 ```
-
-## Struktur
-
-| Datei | Zweck |
-|---|---|
-| `TEMPLATE.md` | Die Vorlage (Source of Truth, inkl. Agent-Anweisungen im Kopfkommentar) |
-| `README.md` | Diese Datei — was das Repo ist, kein Beispiel |
-| `AGENTS.md` | Regeln für Agents, die in diesem Repo arbeiten |
-
-Stil in Kurzform: zentrierter Header (Name, Keyword-Zeile, Badges, max. 2 Hero-Bilder) → Übersichtstabelle → Quick start → Inhalte in `<details>`-Blöcken → optionale Galerie. Details stehen als Kommentare in `TEMPLATE.md`.

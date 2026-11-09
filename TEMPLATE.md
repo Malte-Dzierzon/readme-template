@@ -32,7 +32,7 @@ ADAPT PER PROJECT TYPE (keep the skeleton, rename sections):
   Configuration, Examples (in <details>).
 - Library: Quick start = install + minimal snippet. Sections = API /
   Concepts (in <details>), Configuration.
-- Config / dotfiles: Quick start = what maps where + selective copy
+- Config repo: Quick start = what maps where + selective copy
   + special cases. Sections = grouped areas (in <details>).
 - App / service: Quick start = run + open. Sections = Features,
   Configuration, Deployment (in <details>).
