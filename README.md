@@ -5,7 +5,7 @@
 **README skeleton · agent-ready · structure only**
 
 ![](https://img.shields.io/github/last-commit/Malte-Dzierzon/readme-template?style=flat-square&color=16242d&labelColor=070e15)
-![](https://img.shields.io/badge/agent--ready-0e0e43?style=flat-square&labelColor=070e15)
+![](https://img.shields.io/badge/style-clean-0e0e43?style=flat-square&labelColor=070e15)
 
 </div>
 
